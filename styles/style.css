@@ -22,8 +22,9 @@ body {
 
 img {
   margin-bottom: 15px;
+  padding: 5px 10px 0px 10px;
   border-radius: 16px;
-  width: 100%;
+  width: 98%;
   position: relative;
 }
 
